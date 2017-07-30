@@ -2,7 +2,7 @@
 
 Project made for the Fundamentals of Artificial Intelligence discipline.
 
-This "challenge" has been made by: http://ai.berkeley.edu/search.html
+You can find the full reference of this challenge on: http://ai.berkeley.edu/search.html
 
 ### Implement the following search algorithms to find the shortest path:
 
