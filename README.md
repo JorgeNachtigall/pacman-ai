@@ -1,4 +1,4 @@
-# PACMAN-AI | Berkeley AI Materials
+# PACMAN-AI | Challenge from Berkeley AI
 
 Project made for the Fundamentals of Artificial Intelligence discipline.
 
