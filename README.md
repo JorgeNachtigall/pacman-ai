@@ -1,6 +1,8 @@
 # PACMAN-AI | Berkeley AI Materials
 
-Implementation made for the Fundamentals of Artificial Intelligence discipline.
+Project made for the Fundamentals of Artificial Intelligence discipline.
+
+This "challenge" has been made by: http://ai.berkeley.edu/search.html
 
 ### Implement the following search algorithms to find the shortest path:
 
